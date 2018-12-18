@@ -1,4 +1,4 @@
-<p align="center"><a><img width="100" src="https://github.com/liguifa/instant/blob/master/logo.pn" alt="logo"></a></p>
+<p align="center"><a><img width="100" src="https://github.com/liguifa/instant/blob/master/logo.png" alt="logo"></a></p>
 
 <h2 align="center">瞬间相册</h2>
 
