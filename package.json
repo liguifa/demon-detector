@@ -25,7 +25,8 @@
     "imagemin": "^5.3.1",
     "imagemin-jpegtran": "^5.0.2",
     "imagemin-pngquant": "^5.0.1",
-    "images": "^3.0.0",
+    "images": "^3.0.1",
+    "in-view": "^0.6.1",
     "in-viewport": "^3.5.0",
     "memory-cache": "*",
     "style-loader": "^0.13.1",
@@ -41,5 +42,8 @@
     "dev": "webpack",
     "dist": "webpack -p",
     "test": "node test/test-gallery.js ; node test/test-album.js ; node test/test-photo.js"
+  },
+  "devDependencies": {
+    "file-loader": "^2.0.0"
   }
 }
